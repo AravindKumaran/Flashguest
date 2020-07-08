@@ -247,7 +247,7 @@ nav.navbar.bootsnav{
 }
 
 .wrap-sticky nav.navbar.bootsnav.sticked{
-	background: #1151d3;
+	background: #eff6ff;
 	border-bottom: 1px solid rgba(255,255,255,0.05);
 	transition: all 0.3s ease-out;
     -webkit-transition: all 0.3s ease-out;
@@ -335,9 +335,8 @@ nav.navbar.bootsnav{
 	top: 0px;
 	left: 0;
 	width: 100%;
-	background: #1151d3 url(../images/banner-pattern.png) no-repeat center center;
+	background: #eff6ff url(../flashguesttheme/source/iStock-1164435677.jpg) no-repeat center center;
 	padding: 160px 0 0;
-	margin-bottom: 240px;
 }
 
 .banner .row{
@@ -345,8 +344,8 @@ nav.navbar.bootsnav{
 	z-index: 1;
 }
 
-.header-content{
-	text-align: center;
+.container-content{
+	margin-top: 174px; margin-left: 3%;
 }
 
 .header-content h3{
@@ -407,9 +406,10 @@ nav.navbar.bootsnav{
 }
 
 .header-image{
-	text-align: center;
-	margin-top: 30px;
-	margin-bottom: -240px;
+	text-align: right;
+	margin-right: 5%;
+	/* margin-top: 30px; */
+	/* margin-bottom: -240px; */
 }
 
 /************************************/

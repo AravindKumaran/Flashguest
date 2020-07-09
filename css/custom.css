@@ -337,6 +337,8 @@ nav.navbar.bootsnav{
 	width: 100%;
 	background: #eff6ff url(../flashguesttheme/source/iStock-1164435677.jpg) no-repeat center center;
 	padding: 160px 0 0;
+	background-blend-mode: multiply;
+	background-color: #666666;
 }
 
 .banner .row{
@@ -423,16 +425,16 @@ nav.navbar.bootsnav{
 
 .section-title p{
 	text-transform: uppercase;
-	color: #1151d3;
+	color:yellow;
 	font-size: 18px;
-	font-weight: 500;
+	font-weight: 700;
 	padding-top: 2px;
 }
 
 .section-title h2{
 	font-size: 30px;
 	color: #232322;
-	font-weight: 600;
+	font-weight: 700;
 	line-height: 1.2em;
 }
 
@@ -1119,7 +1121,7 @@ nav.navbar.bootsnav{
 }
 
 .btn-subscribe{
-	background: #fff;
+	background: yellow;
 	color: #232322;
 	border: none;
 	border-radius: 30px;
@@ -1133,8 +1135,8 @@ nav.navbar.bootsnav{
 }
 
 .btn-subscribe:hover{
-	background: #232322;
-	color: #fff;
+	color: #232322;
+	background: #fff;
 }
 
 /****************************************/
